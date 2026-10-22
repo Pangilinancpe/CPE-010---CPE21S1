@@ -38,7 +38,7 @@
   <tr><td>📘 <b>Course</b></td><td>CPE-010</td></tr>
   <tr><td>👥 <b>Section</b></td><td>CPE21S1</td></tr>
   <tr><td>🧑‍💻 <b>Student</b></td><td><i>Bienvenido B. Pangilinan Jr</i></td></tr>
-  <tr><td>🧑‍🏫 <b>Instructor</b></td><td><i>Engr. Jimlord M. Quehad0</i></td></tr>
+  <tr><td>🧑‍🏫 <b>Instructor</b></td><td><i>Engr. Jimlord M. Quehado</i></td></tr>
   <tr><td>⚙️ <b>Primary Language</b></td><td>C++</td></tr>
 </table>
 
