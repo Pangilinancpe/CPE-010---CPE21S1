@@ -19,7 +19,6 @@
   <a href="#student-info">Student Info</a> &nbsp;•&nbsp;
   <a href="#repository-structure">Repository Structure</a> &nbsp;•&nbsp;
   <a href="#topics-covered">Topics Covered</a> &nbsp;•&nbsp;
-  <a href="#how-to-run">How to Run</a> &nbsp;•&nbsp;
   <a href="#prerequisites">Prerequisites</a>
 </p>
 
@@ -94,15 +93,6 @@ CPE-010---CPE21S1/
   </tbody>
 </table>
 
-<h2 id="how-to-run">▶️ How to Run</h2>
-<pre>
-# compile a single activity file
-g++ main.cpp -o main
-
-# run it
-./main        # Linux / macOS
-main.exe      # Windows
-</pre>
 
 <h2 id="prerequisites">🛠️ Prerequisites</h2>
 <ul>
