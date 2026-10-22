@@ -18,7 +18,7 @@
   <a href="#about">About</a> &nbsp;•&nbsp;
   <a href="#student-info">Student Info</a> &nbsp;•&nbsp;
   <a href="#repository-structure">Repository Structure</a> &nbsp;•&nbsp;
-  <a href="#topics-covered">Topics Covered</a> &nbsp;•&nbsp;
+  <a href="#topics-covered">Topics Covered</a>
 </p>
 
 <hr>
