@@ -1,10 +1,14 @@
-
 <p align="center">
   <img src="https://img.shields.io/badge/Course-CPE--010-ff4d5e?style=for-the-badge" alt="Course">
   <img src="https://img.shields.io/badge/Section-CPE21S1-8ab4ff?style=for-the-badge" alt="Section">
   <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Build-CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake">
   <img src="https://img.shields.io/badge/Activities-14-2ea043?style=for-the-badge" alt="Activities">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Prelim-HOA%201%20to%205-f59e0b?style=flat-square" alt="Prelim">
+  <img src="https://img.shields.io/badge/Midterm-HOA%206%20to%209-3b82f6?style=flat-square" alt="Midterm">
+  <img src="https://img.shields.io/badge/Finals-HOA%2010%20to%2014-ef4444?style=flat-square" alt="Finals">
 </p>
 
 <p align="center">
@@ -18,7 +22,9 @@
   <a href="#about">About</a> &nbsp;•&nbsp;
   <a href="#student-info">Student Info</a> &nbsp;•&nbsp;
   <a href="#repository-structure">Repository Structure</a> &nbsp;•&nbsp;
-  <a href="#topics-covered">Topics Covered</a>
+  <a href="#prelim">Prelim</a> &nbsp;•&nbsp;
+  <a href="#midterm">Midterm</a> &nbsp;•&nbsp;
+  <a href="#finals">Finals</a>
 </p>
 
 <hr>
@@ -26,16 +32,17 @@
 <h2 id="about">🚀 About</h2>
 <p>
   This portfolio collects every <b>Hands-on Activity</b> completed in <b>CPE-010</b>.
-  Each activity lives in its own folder, numbered in the order it was taken in class,
-  so you can follow the whole learning path from fundamentals to advanced algorithmic
-  topics, top to bottom.
+  Each activity lives in its own folder, numbered in the order it was taken in class, and
+  the activities are grouped by grading period: <b>Prelim</b> (HOA 1 to 5),
+  <b>Midterm</b> (HOA 6 to 9), and <b>Finals</b> (HOA 10 to 14). You can follow the whole
+  learning path from fundamentals to advanced algorithmic topics, top to bottom.
 </p>
 
 <h2 id="student-info">🎓 Student Info</h2>
 <table>
   <tr><td>📘 <b>Course</b></td><td>CPE-010</td></tr>
   <tr><td>👥 <b>Section</b></td><td>CPE21S1</td></tr>
-  <tr><td>🧑‍💻 <b>Student</b></td><td><i>Bienvenido B. Pangilinan Jr</i></td></tr>
+  <tr><td>🧑‍💻 <b>Student</b></td><td><i>Bienvenido B. Pangilinan Jr.</i></td></tr>
   <tr><td>🧑‍🏫 <b>Instructor</b></td><td><i>Engr. Jimlord M. Quehado</i></td></tr>
   <tr><td>⚙️ <b>Primary Language</b></td><td>C++</td></tr>
 </table>
@@ -45,31 +52,40 @@
 <summary><b>Click to collapse or expand</b></summary>
 <pre>
 CPE-010---CPE21S1/
+│
+├── 🟠 PRELIM
+│   ├── 📁 HOA1.1/
+│   ├── 📁 HOA2.1/
+│   ├── 📁 HOA3.1/
+│   ├── 📁 HOA4.1/
+│   ├── 📁 HOA4.1(2)/
+│   ├── 📁 HOA4.1(3)/
+│   └── 📁 HOA5.1/
+│
+├── 🔵 MIDTERM
+│   ├── 📁 HOA6.1/
+│   ├── 📁 HOA7.1/
+│   ├── 📁 HOA8.1/
+│   └── 📁 HOA9.1/
+│
+├── 🔴 FINALS
+│   ├── 📁 HOA10.1/
+│   ├── 📁 HOA11.1/
+│   ├── 📁 HOA12.1/
+│   ├── 📁 HOA13.1/
+│   └── 📁 HOA14.1/
+│
 ├── 📁 HOA/
 ├── 📁 HandsOnActivity1/
 ├── 📁 Prelim/
-├── 📁 HOA1.1/
-├── 📁 HOA2.1/
-├── 📁 HOA3.1/
-├── 📁 HOA4.1/
-├── 📁 HOA4.1(2)/
-├── 📁 HOA4.1(3)/
-├── 📁 HOA5.1/
-├── 📁 HOA6.1/
-├── 📁 HOA7.1/
-├── 📁 HOA8.1/
-├── 📁 HOA9.1/
-├── 📁 HOA10.1/
-├── 📁 HOA11.1/
-├── 📁 HOA12.1/
-├── 📁 HOA13.1/
-├── 📁 HOA14.1/
 ├── 📄 README.md
 
 </pre>
 </details>
 
-<h2 id="topics-covered">🧠 Topics Covered</h2>
+<hr>
+
+<h2 id="prelim">🟠 Prelim &nbsp;<sub>HOA 1 to 5</sub></h2>
 <table>
   <thead>
     <tr><th align="center">#</th><th align="left">Activity</th><th align="left">Focus</th></tr>
@@ -80,10 +96,28 @@ CPE-010---CPE21S1/
     <tr><td align="center">3.1</td><td>🔗 <a href="./HOA3.1">Linked Lists</a></td><td>Nodes, insertion, deletion, traversal</td></tr>
     <tr><td align="center">4.1</td><td>📚 <a href="./HOA4.1">Stacks</a></td><td>LIFO structure, push, pop, peek</td></tr>
     <tr><td align="center">5.1</td><td>🚶 <a href="./HOA5.1">Queues</a></td><td>FIFO structure, enqueue, dequeue</td></tr>
+  </tbody>
+</table>
+
+<h2 id="midterm">🔵 Midterm &nbsp;<sub>HOA 6 to 9</sub></h2>
+<table>
+  <thead>
+    <tr><th align="center">#</th><th align="left">Activity</th><th align="left">Focus</th></tr>
+  </thead>
+  <tbody>
     <tr><td align="center">6.1</td><td>🔍 <a href="./HOA6.1">Searching Techniques</a></td><td>Linear and binary search</td></tr>
     <tr><td align="center">7.1</td><td>📊 <a href="./HOA7.1">Sorting Algorithms Pt1</a></td><td>Elementary sorting algorithms</td></tr>
     <tr><td align="center">8.1</td><td>📈 <a href="./HOA8.1">Sorting Algorithms Pt2</a></td><td>Advanced sorting algorithms</td></tr>
     <tr><td align="center">9.1</td><td>🌳 <a href="./HOA9.1">Tree ADT</a></td><td>Binary trees and tree traversals</td></tr>
+  </tbody>
+</table>
+
+<h2 id="finals">🔴 Finals &nbsp;<sub>HOA 10 to 14</sub></h2>
+<table>
+  <thead>
+    <tr><th align="center">#</th><th align="left">Activity</th><th align="left">Focus</th></tr>
+  </thead>
+  <tbody>
     <tr><td align="center">10.1</td><td>🕸️ <a href="./HOA10.1">Graphs</a></td><td>Graph representation, DFS and BFS</td></tr>
     <tr><td align="center">11.1</td><td>⏱️ <a href="./HOA11.1">Basic Algorithm Analysis</a></td><td>Measuring and comparing algorithm efficiency</td></tr>
     <tr><td align="center">12.1</td><td>🧩 <a href="./HOA12.1">Algorithmic Strategies</a></td><td>Common problem-solving approaches</td></tr>
@@ -91,8 +125,6 @@ CPE-010---CPE21S1/
     <tr><td align="center">14.1</td><td>📐 <a href="./HOA14.1">Algorithm Complexity</a></td><td>Big-O notation and growth rates</td></tr>
   </tbody>
 </table>
-
-
 
 <p align="center">
   <sub>Made with ☕ and C++ for CPE-010 • Section CPE21S1</sub>
