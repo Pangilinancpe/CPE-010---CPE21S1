@@ -19,7 +19,6 @@
   <a href="#student-info">Student Info</a> &nbsp;•&nbsp;
   <a href="#repository-structure">Repository Structure</a> &nbsp;•&nbsp;
   <a href="#topics-covered">Topics Covered</a> &nbsp;•&nbsp;
-  <a href="#prerequisites">Prerequisites</a>
 </p>
 
 <hr>
@@ -94,14 +93,6 @@ CPE-010---CPE21S1/
 </table>
 
 
-<h2 id="prerequisites">🛠️ Prerequisites</h2>
-<ul>
-  <li>A C++ compiler such as <code>g++</code> (C++11 or newer)</li>
-  <li>CMake (some activities include a <code>CMakeLists.txt</code>)</li>
-  <li>Any code editor or IDE, for example CLion, VS Code, or Code::Blocks</li>
-</ul>
-
-<hr>
 
 <p align="center">
   <sub>Made with ☕ and C++ for CPE-010 • Section CPE21S1</sub>
